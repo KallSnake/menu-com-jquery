@@ -184,41 +184,6 @@ html {
 }
 
 
-.social-icons a {
-    color: white;
-    border: 4px solid white;
-    width: 50px;
-    height: 50px;
-    line-height: 40px;
-    font-size: 20px;
-    display: inherit;
-    text-align: center;
-    border-radius: 50px;
-    transition: all ease 1s;
-    margin-top: 40px; 
-}
-
-
-.social-icons a:hover {
-    color: #000;
-    margin-top: -10px;
-    border-color: #000;
-}
-
-
-.social-icons a:hover i {
-    color: #000;
-    margin-top: -10px;
-    border-color: #000;
-}
-
-
-ul.social-icons.list-inline {
-    text-align: center;
-    margin-top: 22px;
-}
-
-
 .list-inline > li {
     display: inline-block;
     padding-right: 5px;
